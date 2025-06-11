@@ -9,4 +9,4 @@ function binaryToText(binaryStr) {
 
 
 var binary = pass;
-var sigma = binaryToText(binary);
+var sigma123456789abcdefg = binaryToText(binary);
